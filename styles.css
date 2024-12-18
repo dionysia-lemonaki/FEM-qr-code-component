@@ -19,9 +19,26 @@
     /* letter spacing */
     --letter-spacing-heading: 0em;
     --letter-spacing-body: 0.013em;
-    
+
     /* spacing */
     --spacing-xl: 40px;
     --spacing-lg: 24px;
     --spacing-md: 16px;
+}
+
+/* Fonts */
+@font-face {
+    font-family: "Outfit";
+    font-display: swap;
+    font-style: normal;
+    font-weight: 500;
+    src: url("./fonts/outfit-v11-latin-500.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Outfit";
+    font-display: swap;
+    font-style: normal;
+    font-weight: 900;
+    src: url("./fonts/outfit-v11-latin-900.woff2") format("woff2");
 }
