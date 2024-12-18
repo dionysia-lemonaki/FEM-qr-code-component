@@ -42,3 +42,20 @@
     font-weight: 900;
     src: url("./fonts/outfit-v11-latin-900.woff2") format("woff2");
 }
+
+/* Base Styles */
+html {
+    box-sizing: border-box;
+}
+
+*, 
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+* {
+    margin:0;
+    padding:0;
+}
+
