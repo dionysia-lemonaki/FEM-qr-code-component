@@ -1,0 +1,27 @@
+:root {
+    /* colours */
+    --background-color-primary: #D5E1EF;
+    --background-color-card: #FFFFFF;
+    --text-color-title: #1F314F;
+    --text-color-body: #68778D;
+
+    /* typography */
+    --font-size-title: 1.375rem;
+    --font-size-body: 0.938rem;
+    --line-height-title: 1.2;
+    --line-height-body: 1.4;
+    --letter-spacing-title: 0;
+    --letter-spacing-body: 0.013em;
+
+    /* spacing */
+    --spacing-xl: 2.5rem;
+    --spacing-lg: 1.5rem;
+    --spacing-sm: 1rem;
+}
+
+
+
+
+  
+
+    
