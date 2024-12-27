@@ -8,6 +8,8 @@
     /* typography */
     --font-size-title: 1.375rem;
     --font-size-body: 0.938rem;
+    --font-weight-regular: 400;
+    --font-weight-bold: 700;
     --line-height-title: 1.2;
     --line-height-body: 1.4;
     --letter-spacing-title: 0;
@@ -18,6 +20,24 @@
     --spacing-lg: 1.5rem;
     --spacing-sm: 1rem;
 }
+
+@font-face {
+    font-display: swap;
+    font-family: "Outfit";
+    font-style:normal;
+    font-weight: 400;
+    src: url("./fonts/outfit-regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Outfit";
+    font-style:normal;
+    font-weight: 700;
+    src: url("./fonts/outfit-bold.woff2") format("woff2");
+}
+
+
 
 
 
